@@ -1,6 +1,6 @@
 # Kotlin 
 
-# Lição de Kotlin 
+# Lição de Kotlin da minha Faculdade
 
 
 ## 🚀 Ferramentas utilizadas:
